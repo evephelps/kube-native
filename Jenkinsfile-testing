@@ -4,7 +4,7 @@ pipeline {
     
     environment {
         DTR_FQDN_PORT='ec2-52-29-36-2.eu-central-1.compute.amazonaws.com:4443'
-        GIT_USER='<GitHub username>'
+        GIT_USER='evephelps'
     }
 
     stages {
